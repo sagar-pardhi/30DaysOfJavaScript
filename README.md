@@ -3,3 +3,4 @@
 - [x] JS Drum Kit
 - [x] JS and CSS Clock
 - [x] CSS Variables
+- [x] Array Cardio Day 1
