@@ -5,3 +5,4 @@
 - [x] CSS Variables
 - [x] Array Cardio Day 1
 - [x] Flex Panel Gallery
+- [x] Type Ahead
