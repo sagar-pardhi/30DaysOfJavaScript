@@ -6,4 +6,5 @@
 - [x] Array Cardio Day 1
 - [x] Flex Panel Gallery
 - [x] Type Ahead
-- [x] Array Cardio Day 2 
+- [x] Array Cardio Day 2
+- [x] Fun with HTML5 Canvas 
