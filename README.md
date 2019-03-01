@@ -9,3 +9,4 @@
 - [x] Array Cardio Day 2
 - [x] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
+- [x] Hold Shift and Check Checkboxex
