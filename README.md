@@ -10,3 +10,4 @@
 - [x] Fun with HTML5 Canvas
 - [x] Dev Tools Domination
 - [x] Hold Shift and Check Checkboxes
+- [x] Custom Video Player
