@@ -11,3 +11,4 @@
 - [x] Dev Tools Domination
 - [x] Hold Shift and Check Checkboxes
 - [x] Custom Video Player
+- [x] Key Sequence Detection
