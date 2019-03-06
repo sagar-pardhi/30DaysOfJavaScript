@@ -14,3 +14,4 @@
 - [x] Key Sequence Detection
 - [x] Slide in on Scroll
 - [x] JavaScript References VS Copying
+- [x] LocalStorage
