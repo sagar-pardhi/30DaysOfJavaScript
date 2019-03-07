@@ -15,3 +15,4 @@
 - [x] Slide in on Scroll
 - [x] JavaScript References VS Copying
 - [x] LocalStorage
+- [x] Mouse Move Shadow
