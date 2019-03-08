@@ -16,3 +16,4 @@
 - [x] JavaScript References VS Copying
 - [x] LocalStorage
 - [x] Mouse Move Shadow
+- [x] Sort Without Articles
