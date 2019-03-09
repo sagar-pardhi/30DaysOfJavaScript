@@ -17,3 +17,4 @@
 - [x] LocalStorage
 - [x] Mouse Move Shadow
 - [x] Sort Without Articles
+- [x] Adding Up Times with Reduce 
