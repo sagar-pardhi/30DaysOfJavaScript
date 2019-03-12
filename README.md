@@ -19,3 +19,4 @@
 - [x] Sort Without Articles
 - [x] Adding Up Times with Reduce
 - [x] Webcam Fun 
+- [x] Speech Detection 
