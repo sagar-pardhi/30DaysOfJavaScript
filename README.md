@@ -20,4 +20,5 @@
 - [x] Adding Up Times with Reduce
 - [x] Webcam Fun 
 - [x] Speech Detection
-- [x] Geolocation 
+- [x] Geolocation
+- [x] Follow Along Link Highlighter  
