@@ -21,4 +21,5 @@
 - [x] Webcam Fun 
 - [x] Speech Detection
 - [x] Geolocation
-- [x] Follow Along Link Highlighter  
+- [x] Follow Along Link Highlighter
+- [x] Speech Synthesis   
