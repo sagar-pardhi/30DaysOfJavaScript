@@ -23,3 +23,4 @@
 - [x] Geolocation
 - [x] Follow Along Link Highlighter
 - [x] Sticky Nav 
+- [x] Event Capture, Propagation, Bubbling and Once
