@@ -23,3 +23,5 @@
 - [x] Geolocation
 - [x] Follow Along Link Highlighter
 - [x] Speech Synthesis   
+- [x] Sticky Nav 
+- [x] Event Capture, Propagation, Bubbling and Once
