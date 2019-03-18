@@ -25,3 +25,4 @@
 - [x] Speech Synthesis   
 - [x] Sticky Nav 
 - [x] Event Capture, Propagation, Bubbling and Once
+- [x] Stripe Follow Along Nav
