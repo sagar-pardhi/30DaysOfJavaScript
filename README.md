@@ -28,3 +28,4 @@
 - [x] Stripe Follow Along Nav
 - [x] Click and Drag
 - [x] Video Speed Controller
+- [x] Countdown Timer 
